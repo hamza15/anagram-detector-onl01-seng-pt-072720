@@ -6,7 +6,7 @@ class Anagram
     @input = input
   end
   
-  self.match(words)
+  def match(words)
     arr = []
     words.each do |word|
       if word.sort == @input.sort
