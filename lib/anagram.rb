@@ -13,5 +13,4 @@ class Anagram
         arr << word
       end
     arr
-  
 end
