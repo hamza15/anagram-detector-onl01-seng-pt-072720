@@ -15,5 +15,4 @@ class Anagram
     end
     arr
   end
-  
 end
