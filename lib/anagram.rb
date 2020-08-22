@@ -12,5 +12,8 @@ class Anagram
       if word.sort == @input.sort
         arr << word
       end
+    end
     arr
+  end
+  
 end
